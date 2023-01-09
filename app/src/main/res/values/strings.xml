@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Convo_1.0</string>
+
+    <string name="result_one">Result 1</string>
+    <string name="result_two">Result 2</string>
+
+    <string name="first_currency_hint">Enter here</string>
+    <string name="second_currency_hint">Second Currency</string>
+
+    <string name="convert">Convert</string>
+    <string name="error_message">Enter a value</string>
+
+    <string-array name="currencies">
+        <item>USD</item>
+        <item>NGN</item>
+    </string-array>
+
+    <string-array name="currencies_2">
+        <item>NGN</item>
+        <item>USD</item>
+    </string-array>
+
+</resources>
